@@ -1,0 +1,79 @@
+ body {
+  
+        background: url(elvis7.jpeg) center/cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+ }
+ h1{
+   text-align: center;
+
+ }
+ h3{
+ text-align: center;
+ }
+nav{
+      background-color: blue;
+      display:block;
+      margin: auto;
+      width : 100%;
+      text-align: center;
+
+}
+  h2{
+       
+       text-align:center;
+    
+  }
+
+nav a{
+      text-decoration: none;
+      color: white;
+    display: inline-block;
+    padding:  20px 40px;
+    
+}
+nav ul{
+
+    list-style-type: none;
+}
+nav li{
+
+      display: inline;
+     list-style-type: none;
+}
+
+.MENU{
+       display: table;
+       margin: 0 auto ;
+}
+
+
+input{
+    width: 200px;
+    position: relative;
+    margin-left: 70px;
+    
+}
+label{
+
+     font-size: 1.1em;
+     margin: 8px;
+     
+    
+}
+form  {
+       text-align: center;
+       z-index: 1111;
+
+}
+a img{
+       background-color:white;
+
+
+}
+#NOM{
+       margin-left: 30px;
+}
+footer{
+ text-align:right;
+}
